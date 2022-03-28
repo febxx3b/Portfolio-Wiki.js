@@ -2,7 +2,7 @@
 title: Donner des droits aux utilisateurs
 description: 
 published: 1
-date: 2022-03-28T08:41:44.769Z
+date: 2022-03-28T08:55:16.801Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T08:41:44.769Z
@@ -43,4 +43,17 @@ Une fois cela fais nous pouvons lui attribuer des règles (exemple sur "eleve");
 ![regles-refuser.png](/images/kwartz/droits/regles-refuser.png)
  
 # Attribution au groupe d'utilisateurs
+ 
+Pour l'attribution de droits il faut tout d'abord créer des groupes et ensuite ajouter les utilisateur les les droits au groupes d'utilisateurs.
+Pour commencer sélectionner l'onglet " Utilisateurs ",
+ 
+![selection-utilisateurs.png](/images/kwartz/utilisateurs/selection-utilisateurs.png)
 
+Ensuite nous allons ajouter un groupe et le configurer ;
+# Tabs {.tabset}
+## Ajouter un groupe
+![ajout-groupes-from-user.png](/images/kwartz/droits/ajout-groupes-from-user.png)
+## Le configurer
+![ajout-groupes.png](/images/kwartz/droits/ajout-groupes.png)
+## Exemple
+![ajout-groupes-ex-admin.png](/images/kwartz/droits/ajout-groupes-ex-admin.png)
