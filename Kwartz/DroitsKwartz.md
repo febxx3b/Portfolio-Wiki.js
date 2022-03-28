@@ -2,7 +2,7 @@
 title: Donner des droits aux utilisateurs
 description: 
 published: 1
-date: 2022-03-28T08:55:16.801Z
+date: 2022-03-28T09:07:41.069Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T08:41:44.769Z
@@ -50,10 +50,18 @@ Pour commencer sélectionner l'onglet " Utilisateurs ",
 ![selection-utilisateurs.png](/images/kwartz/utilisateurs/selection-utilisateurs.png)
 
 Ensuite nous allons ajouter un groupe et le configurer ;
-# Tabs {.tabset}
-## Ajouter un groupe
+## Tabs {.tabset}
+### Ajouter un groupe
 ![ajout-groupes-from-user.png](/images/kwartz/droits/ajout-groupes-from-user.png)
-## Le configurer
+### Le configurer
 ![ajout-groupes.png](/images/kwartz/droits/ajout-groupes.png)
-## Exemple
+### Exemple
 ![ajout-groupes-ex-admin.png](/images/kwartz/droits/ajout-groupes-ex-admin.png)
+ 
+## Attribuer les utilisateurs dans les groupes
+ 
+Pour attribuer les utilisateurs dans leur groupes respectif un par un, il faut les ajouter dans la case " Membres ";
+![ajout-groupes-users.png](/images/kwartz/droits/ajout-groupes-users.png)
+
+## Ajout des droits sur des utilisateurs fini !
+Et voilà vous avez ajouter des droits sur des utlisateurs sur un serveur Kwartz 🎉.
