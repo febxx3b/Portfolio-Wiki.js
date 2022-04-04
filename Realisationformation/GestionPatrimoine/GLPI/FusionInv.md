@@ -2,7 +2,7 @@
 title: Fusion Inventory
 description: 
 published: 1
-date: 2022-04-04T15:09:07.667Z
+date: 2022-04-04T15:11:28.300Z
 tags: 1.1 gérer le patrimoine informatique, recenser et identifier les ressources numériques
 editor: markdown
 dateCreated: 2022-04-04T15:09:07.667Z
@@ -42,6 +42,10 @@ Lors de l'installation nous allons entrer les coordonnés du serveur GLPI et sé
 ![isntallwin10.png](/images/glpi/isntallwin10.png)
 
 Et voilà le poste apparait dans le GLPI :
+# Tabs {.tabset}
+## Les machine sur le GLPI
 ![fusion-inv1.png](/images/glpi/fusion-inv1.png)
+## Information sur le GLPI
 ![fusion-inv2.png](/images/glpi/fusion-inv2.png)
+## Information sur Windows 10
 ![fusion-inv3.png](/images/glpi/fusion-inv3.png)
