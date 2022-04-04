@@ -2,8 +2,8 @@
 title: Installation du Wiki.js
 description: 
 published: 1
-date: 2022-04-04T07:18:23.131Z
-tags: 
+date: 2022-04-04T22:06:09.529Z
+tags: 1.5 mettre à disposition des utilisateurs un service informatique, déployer un service
 editor: markdown
 dateCreated: 2022-03-24T14:29:48.115Z
 ---
