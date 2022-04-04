@@ -2,7 +2,7 @@
 title: Installation du Wiki.js
 description: 
 published: 1
-date: 2022-03-24T14:51:10.776Z
+date: 2022-04-04T07:16:07.227Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T14:29:48.115Z
@@ -10,12 +10,16 @@ dateCreated: 2022-03-24T14:29:48.115Z
 
 # Installation du Wiki.js
 
+# Compétences
+**1.5 Mettre à disposition des utilisateurs un service informatique**
+- Déployer un service
+ 
 ## conseils
-
-### Machine RedHat
+# Tabs {.tabset}
+## Machine RedHat
 Pour commencer il faut tout d'abord avoir une machine RedHat de disponible si vous en avez pas référez vous à la documentation pour faire une installation d'une machine RedHat juste [ici](/RedHat).
 
-### PuTTY
+## PuTTY
 Il est vivement recommendé d'utiliser l'outil SSH PuTTY qui est téléchargable ci dessous :
 https://www.putty.org/
 
@@ -244,8 +248,10 @@ Ensuite nous devons ajouter les entrées pour SeLinux :
 il ne reste plus qu'à vous connecter sur l'adresse IP de la machine suivit du port 3000.
 > X.X.X.X:3000
 {.is-info}
-
  
+# Ajout d'utilisateurs et de ces droits
+- [Ajouter un utilisateur et lui attribuier des droits](/RedHat/Wikijs/droits)
+{.links-list}
 
  
 > Documentation faite par Sulyvan Laleu.
