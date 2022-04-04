@@ -2,13 +2,11 @@
 title: Installation du Wiki.js
 description: 
 published: 1
-date: 2022-04-04T07:16:07.227Z
+date: 2022-04-04T07:18:23.131Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-24T14:29:48.115Z
 ---
-
-# Installation du Wiki.js
 
 # Compétences
 **1.5 Mettre à disposition des utilisateurs un service informatique**
