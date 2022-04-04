@@ -2,8 +2,8 @@
 title: Installation GLPI
 description: 
 published: 1
-date: 2022-04-04T13:16:14.362Z
-tags: 
+date: 2022-04-04T13:23:07.999Z
+tags: 1.1 gérer le patrimoine informatique, recenser et identifier les ressources numériques, 1.5 mettre à disposition des utilisateurs un service informatique, déployer un service
 editor: markdown
 dateCreated: 2022-04-04T13:16:14.362Z
 ---
