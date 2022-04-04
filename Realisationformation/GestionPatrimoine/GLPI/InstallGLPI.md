@@ -2,7 +2,7 @@
 title: Installation GLPI
 description: 
 published: 1
-date: 2022-04-04T14:28:14.141Z
+date: 2022-04-04T14:30:20.803Z
 tags: 1.1 gérer le patrimoine informatique, 1.5 mettre à disposition des utilisateurs un service informatique, déployer un service, recenser et identifier les ressources numériques
 editor: markdown
 dateCreated: 2022-04-04T13:16:14.362Z
@@ -136,3 +136,7 @@ mot de passe : glpi
 
 ![end.png](/images/glpi/end.png)
 
+# installation de Fusion Inventory
+
+- [Fusion Inventory *1.1-Recenser et identifier les ressources numériques*](/Realisationformation/GestionPatrimoine/GLPI/FusionInv)
+{.links-list}
