@@ -2,7 +2,7 @@
 title: Réalisation en cours de PFMP 2eme année
 description: 
 published: 1
-date: 2022-04-04T08:19:43.700Z
+date: 2022-04-04T08:28:33.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T08:04:48.499Z
@@ -20,9 +20,9 @@ pour gérer les utilisateurs et leur droits, les postes informatiques et leurs i
 Kwartz est un outil serveur utiliser dans les entreprise afin de gérer plus facilement l'infrastructure réseaux, il est plus généralement utiliser dans les établisement scolaire.
 ## Les outils à disposition :
 il a plusieurs outils intégrer comme par exemple ;
-- [Gestion de poste informatique avec des images *Pulse, Rembo*](/editors/api)
-- [Gestion d'utilisateurs et de leurs droits *Utilisateur & groupes*](/editors/blog)
-- [gestion des Imprimates](/editors/markdown)
+- [Gestion de poste informatique avec des images *Pulse, Rembo*](/PFMP2/Kwartz/Images)
+- [Gestion d'utilisateurs et de leurs droits *Utilisateur & groupes*](/PFMP2/Kwartz/UtilisateurEtDroits)
+- [gestion des Imprimates](/PFMP2/Kwartz/AjoutImprimante)
 {.links-list}
 
 - gestion d'un par-feu
