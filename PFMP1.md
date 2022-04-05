@@ -2,7 +2,7 @@
 title: Réalisation en cours de PFMP 1er année
 description: 
 published: 1
-date: 2022-04-05T07:36:25.851Z
+date: 2022-04-05T07:47:35.457Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T08:03:45.709Z
@@ -19,7 +19,7 @@ il a plusieurs outils intégrer comme par exemple ;
 - [Deploiement d'images *1.5 - Déployer un service*](/PFMP1/images)
 - [Remplacer un hdd par un ssd *1.1 - Vérifier les conditions de la continuité d’un service informatique*](/PFMP1/hddtossd)
 - [Installation d'imprimantes *1.1 - Recenser et identifier les ressources numériques*](/PFMP1/imprimantes)
-- [Instalation de nouveaux postes informatique *1.1 - Recenser et identifier les ressources numériques*](/PFMP1/nouveaupostes)
+- [Installation de nouveaux postes informatique *1.1 - Recenser et identifier les ressources numériques*](/PFMP1/nouveaupostes)
 - [Rangement et recâblage de plusieurs salles *1.2 - Traiter des demandes concernant les services réseau et système, applicatifs*](/PFMP1/rengementsalle)
 - [Création d'un plan de salle *1.2 - Collecter, suivre et orienter des demandes*](/PFMP1/plan)
 {.links-list}
