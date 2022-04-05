@@ -2,11 +2,23 @@
 title: Déploiement d'images
 description: 
 published: 1
-date: 2022-04-05T07:51:17.089Z
+date: 2022-04-05T07:59:37.676Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T07:51:17.088Z
 ---
 
-# Header
-Your content here
+# information
+Pour le déploiment d'images Kwartz est le plus utiliser dans l'établissement mais FOG est utiliser pour le bâtiment 6 3^ème^ étages.
+
+# Voici les preuves
+## Déploiement Kwartz avec Pulse :
+![img_20210519_075755.jpg](/images/pfmp1/img_20210519_075755.jpg)
+
+![img_20210517_145232.jpg](/images/pfmp1/img_20210517_145232.jpg)
+
+## Déploiement Fog :
+![img_20210622_114453.jpg](/images/pfmp1/img_20210622_114453.jpg)
+
+![img_20210517_085707.jpg](/images/pfmp1/img_20210517_085707.jpg)
+
