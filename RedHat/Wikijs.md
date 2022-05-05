@@ -2,7 +2,7 @@
 title: Installation du Wiki.js
 description: 
 published: 1
-date: 2022-04-04T22:06:09.529Z
+date: 2022-05-05T13:41:58.029Z
 tags: 1.5 mettre à disposition des utilisateurs un service informatique, déployer un service
 editor: markdown
 dateCreated: 2022-03-24T14:29:48.115Z
@@ -28,6 +28,14 @@ Pour commencer il faut activer la repository High Availability grâce a la comma
 
 `subscription-manager repos --enable=rhel-8-for-x86_64-highavailability-rpms`
 
+
+## Le repository EPEL (non géré par Red Hat)
+Pour installer cette repository on utilise la commande suivant :
+
+`yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm`
+
+
+#
 ## Création d'un groupe d'utilisateurs
 La 1^ère^ chose est de créé un groupe et un utilisateur pour notre serveur wiki :
 
@@ -39,12 +47,7 @@ La 1^ère^ chose est de créé un groupe et un utilisateur pour notre serveur wi
 > Création d'un utilisateur "wiki" dans le groupe "wiki".
 {.is-info}
 
-## Le repository EPEL (non géré par Red Hat)
-Pour installer cette repository on utilise la commande suivant :
-
-`yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm`
-
-## Installation des paquets nécessaires
+# Installation des paquets nécessaires
 
 `yum install -y git vim wget curl unzip socat mariadb-server`
 > Installation et confirmation d'installation des paquets :
