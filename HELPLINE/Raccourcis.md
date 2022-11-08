@@ -2,7 +2,7 @@
 title: Raccourcis helpdesk
 description: 
 published: 1
-date: 2022-11-08T15:18:19.956Z
+date: 2022-11-08T15:19:01.268Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-08T14:30:44.038Z
@@ -21,7 +21,7 @@ dateCreated: 2022-11-08T14:30:44.038Z
 [Lien Genesys](https://login.mypurecloud.de/?rid=fTXzhhnydNeUUwWbakiW_XB4LTyLlAlc60jU6K-I7Kk#/authenticate)
 
 ## My Atlas
-[Lien My Atlas](myatlas.prodinfo.gca)
+[Lien My Atlas](https://myatlas.prodinfo.gca)
 
 ## Annuaire
-[Lien Annuaire](annuairecad.commun.fr.cly)
+[Lien Annuaire](https://annuairecad.commun.fr.cly)
